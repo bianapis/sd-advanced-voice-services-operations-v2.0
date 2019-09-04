@@ -1,0 +1,28 @@
+{
+  "inboundRetrieveActionTaskReference" : "IRATR762650",
+  "inboundRetrieveActionTaskRecord" : {},
+  "inboundInstanceReport" : {
+    "inboundInstanceReportRecord" : {},
+    "inboundInstanceReport" : {},
+    "inboundInstanceReportType" : "inboundInstanceReportType",
+    "inboundInstanceReportParameters" : "inboundInstanceReportParameters"
+  },
+  "inboundRetrieveActionResponse" : "inboundRetrieveActionResponse",
+  "voiceChannelOperatingSessionInstanceRecord" : {
+    "advancedVoiceServicesOperationsServiceMenu" : "advancedVoiceServicesOperationsServiceMenu",
+    "vChannelServiceSessionStatistics" : "vChannelServiceSessionStatistics"
+  },
+  "inboundInstanceAnalysis" : {
+    "inboundInstanceAnalysisReport" : {},
+    "inboundInstanceAnalysisRecord" : {},
+    "inboundInstanceAnalysisParameters" : "inboundInstanceAnalysisParameters",
+    "inboundInstanceAnalysisReportType" : "inboundInstanceAnalysisReportType"
+  },
+  "inboundInstanceRecord" : {
+    "vChannelDeviceReference" : "763095",
+    "vChannelInboundConnectionContactReference" : "738437",
+    "vChannelDevicePropertyValue" : "vChannelDevicePropertyValue",
+    "vChannelInboundConnectionStartTime" : "09-22-2018",
+    "vChannelInboundConnectionDuration" : "vChannelInboundConnectionDuration"
+  }
+}

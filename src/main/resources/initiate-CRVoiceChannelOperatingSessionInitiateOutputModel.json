@@ -1,0 +1,17 @@
+{
+  "voiceChannelOperatingSessionInstanceStatus" : "voiceChannelOperatingSessionInstanceStatus",
+  "voiceChannelOperatingSessionInstanceReference" : "VCOSIR784623",
+  "voiceChannelOperatingSessionInitiateActionReference" : "VCOSIAR736773",
+  "voiceChannelOperatingSessionInitiateActionRecord" : {},
+  "voiceChannelOperatingSessionInstanceRecord" : {
+    "advancedVoiceServicesOperationsServiceMenu" : "advancedVoiceServicesOperationsServiceMenu",
+    "vChannelServiceSessionReportType" : "vChannelServiceSessionReportType",
+    "vChannelServiceSessionStatistics" : "vChannelServiceSessionStatistics",
+    "vChannelProductionIssueRecord" : {
+      "productionIssueStatus" : "productionIssueStatus",
+      "productionIssueResolutionTask" : "productionIssueResolutionTask",
+      "productionIssueDiagnosis" : "productionIssueDiagnosis"
+    },
+    "vChannelServiceSessionReport" : {}
+  }
+}

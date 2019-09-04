@@ -1,0 +1,20 @@
+{
+  "voiceChannelOperatingSessionUpdateActionTaskReference" : "VCOSUATR744736",
+  "updateResponseRecord" : {},
+  "voiceChannelOperatingSessionInstanceRecord" : {
+    "advancedVoiceServicesOperationsServiceMenu" : "advancedVoiceServicesOperationsServiceMenu",
+    "vChannelServiceSessionReportType" : "vChannelServiceSessionReportType",
+    "vChannelServiceSessionStatistics" : "vChannelServiceSessionStatistics",
+    "vChannelProductionIssueRecord" : {
+      "employeeBusinessUnitReference" : "734363",
+      "customerContactRecordReference" : "750570",
+      "productionIssueType" : "productionIssueType",
+      "productionIssueStatus" : "productionIssueStatus",
+      "productionIssueResolutionTask" : "productionIssueResolutionTask",
+      "productionIssueDiagnosis" : "productionIssueDiagnosis",
+      "productionIssueDescription" : "productionIssueDescription"
+    },
+    "vChannelServiceSessionReport" : {}
+  },
+  "voiceChannelOperatingSessionUpdateActionTaskRecord" : {}
+}

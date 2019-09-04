@@ -1,0 +1,14 @@
+{
+  "outboundInitiateActionReference" : "OIAR766271",
+  "outboundInstanceRecord" : {
+    "vChannelOutboundConnectionDuration" : "vChannelOutboundConnectionDuration",
+    "customerContactDialogueRecord" : {},
+    "vChannelOutboundConnectionStartTime" : "09-22-2018"
+  },
+  "outboundInitiateActionRecord" : {},
+  "outboundInstanceReference" : "OIR718975",
+  "voiceChannelOperatingSessionInstanceRecord" : {
+    "vChannelServiceSessionStatistics" : "vChannelServiceSessionStatistics"
+  },
+  "outboundInstanceStatus" : "outboundInstanceStatus"
+}

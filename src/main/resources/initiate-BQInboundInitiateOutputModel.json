@@ -1,0 +1,13 @@
+{
+  "inboundInitiateActionRecord" : {},
+  "inboundInstanceStatus" : "inboundInstanceStatus",
+  "voiceChannelOperatingSessionInstanceRecord" : {
+    "vChannelServiceSessionStatistics" : "vChannelServiceSessionStatistics"
+  },
+  "inboundInitiateActionReference" : "IIAR729117",
+  "inboundInstanceReference" : "IIR778693",
+  "inboundInstanceRecord" : {
+    "vChannelInboundConnectionStartTime" : "09-22-2018",
+    "vChannelInboundConnectionDuration" : "vChannelInboundConnectionDuration"
+  }
+}

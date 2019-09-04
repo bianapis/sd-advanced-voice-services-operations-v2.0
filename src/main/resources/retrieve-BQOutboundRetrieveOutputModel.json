@@ -1,0 +1,28 @@
+{
+  "outboundInstanceReport" : {
+    "outboundInstanceReport" : {},
+    "outboundInstanceReportParameters" : "outboundInstanceReportParameters",
+    "outboundInstanceReportType" : "outboundInstanceReportType",
+    "outboundInstanceReportRecord" : {}
+  },
+  "outboundInstanceRecord" : {
+    "employeeBusinessUnitReference" : "766925",
+    "customerContactRecordReference" : "702267",
+    "vChannelOutboundConnectionDuration" : "vChannelOutboundConnectionDuration",
+    "customerContactDialogueRecord" : {},
+    "vChannelCustomerDeviceReference" : "749509",
+    "vChannelOutboundConnectionStartTime" : "09-22-2018"
+  },
+  "outboundInstanceAnalysis" : {
+    "outboundInstanceAnalysisReport" : {},
+    "outboundInstanceAnalysisReportType" : "outboundInstanceAnalysisReportType",
+    "outboundInstanceAnalysisRecord" : {},
+    "outboundInstanceAnalysisParameters" : "outboundInstanceAnalysisParameters"
+  },
+  "voiceChannelOperatingSessionInstanceRecord" : {
+    "vChannelServiceSessionStatistics" : "vChannelServiceSessionStatistics"
+  },
+  "outboundRetrieveActionTaskReference" : "ORATR701366",
+  "outboundRetrieveActionTaskRecord" : {},
+  "outboundRetrieveActionResponse" : "outboundRetrieveActionResponse"
+}

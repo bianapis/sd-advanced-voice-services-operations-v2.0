@@ -1,0 +1,17 @@
+{
+  "voiceChannelOperatingSessionRequestActionTaskRecord" : {},
+  "requestRecordReference" : "RRR730196",
+  "voiceChannelOperatingSessionRequestActionTaskReference" : "VCOSRATR789031",
+  "voiceChannelOperatingSessionInstanceRecord" : {
+    "vChannelProductionIssueRecord" : {
+      "employeeBusinessUnitReference" : "755955",
+      "customerContactRecordReference" : "763553",
+      "productionIssueType" : "productionIssueType",
+      "productionIssueStatus" : "productionIssueStatus",
+      "productionIssueResolutionTask" : "productionIssueResolutionTask",
+      "productionIssueDiagnosis" : "productionIssueDiagnosis",
+      "productionIssueDescription" : "productionIssueDescription"
+    }
+  },
+  "requestResponseRecord" : {}
+}

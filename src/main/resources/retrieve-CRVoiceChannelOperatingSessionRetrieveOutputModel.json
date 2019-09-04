@@ -1,0 +1,30 @@
+{
+  "voiceChannelOperatingSessionRetrieveActionTaskReference" : "VCOSRATR796611",
+  "voiceChannelOperatingSessionInstanceReportRecord" : {
+    "voiceChannelOperatingSessionInstanceReport" : {},
+    "voiceChannelOperatingSessionInstanceReportData" : "voiceChannelOperatingSessionInstanceReportData",
+    "voiceChannelOperatingSessionInstanceReportType" : "voiceChannelOperatingSessionInstanceReportType"
+  },
+  "voiceChannelOperatingSessionInstanceAnalysis" : {
+    "voiceChannelOperatingSessionInstanceAnalysisReport" : {},
+    "voiceChannelOperatingSessionInstanceAnalysisReportType" : "voiceChannelOperatingSessionInstanceAnalysisReportType",
+    "voiceChannelOperatingSessionInstanceAnalysisData" : "voiceChannelOperatingSessionInstanceAnalysisData"
+  },
+  "voiceChannelOperatingSessionRetrieveActionTaskRecord" : {},
+  "voiceChannelOperatingSessionRetrieveActionResponse" : "voiceChannelOperatingSessionRetrieveActionResponse",
+  "voiceChannelOperatingSessionInstanceRecord" : {
+    "advancedVoiceServicesOperationsServiceMenu" : "advancedVoiceServicesOperationsServiceMenu",
+    "vChannelServiceSessionReportType" : "vChannelServiceSessionReportType",
+    "vChannelServiceSessionStatistics" : "vChannelServiceSessionStatistics",
+    "vChannelProductionIssueRecord" : {
+      "employeeBusinessUnitReference" : "726272",
+      "customerContactRecordReference" : "726987",
+      "productionIssueType" : "productionIssueType",
+      "productionIssueStatus" : "productionIssueStatus",
+      "productionIssueResolutionTask" : "productionIssueResolutionTask",
+      "productionIssueDiagnosis" : "productionIssueDiagnosis",
+      "productionIssueDescription" : "productionIssueDescription"
+    },
+    "vChannelServiceSessionReport" : {}
+  }
+}
